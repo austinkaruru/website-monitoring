@@ -1,0 +1,5 @@
+requests
+paramiko
+linode_api4
+schedule
+python-dotenv
